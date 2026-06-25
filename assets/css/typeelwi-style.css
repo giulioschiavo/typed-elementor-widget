@@ -1,0 +1,43 @@
+/**
+ * typeelwi-style.css - Typed.js Elementor Widget
+ */
+
+/* Main wrapper */
+.typeelwi-typed-wrapper {
+  display: block;
+  width: 100%;
+}
+
+/* Span populated by Typed.js */
+.typeelwi-typed-output {
+  display: inline;
+}
+
+/* Cursor automatically inserted by Typed.js */
+.typeelwi-typed-wrapper .typed-cursor {
+  display: inline-block;
+  opacity: 1;
+  animation: typeelwi-blink 0.7s infinite;
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+  margin-left: 1px;
+  color: inherit;
+}
+
+@keyframes typeelwi-blink {
+  0%   { opacity: 1; }
+  50%  { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+/* Fade-out class added by Typed.js when fadeOut is true */
+.typeelwi-typed-wrapper .typed-fade-out {
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+/* Hides the cursor when the option is disabled */
+.typeelwi-typed-wrapper .typed-cursor--disabled {
+  display: none;
+}

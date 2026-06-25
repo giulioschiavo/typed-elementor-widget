@@ -1,0 +1,153 @@
+# Copyright (C) 2026 Giulio Schiavo
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Typed.js Elementor Widget 1.0.1\n"
+"Report-Msgid-Bugs-To: https://giulioschiavo.it\n"
+"POT-Creation-Date: 2026-05-09 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: ChatGPT\n"
+"X-Domain: typed-elementor-widget\n"
+
+#: typed-elementor-widget.php
+msgid "Typed.js Elementor Widget"
+msgstr ""
+
+#: typed-elementor-widget.php
+msgid "Integrates Typed.js as an Elementor widget with full styling and animation controls."
+msgstr ""
+
+#: typed-elementor-widget.php
+#. translators: %s: Plugin name
+msgid "\"%s\" requires Elementor. Please install and activate Elementor before using this plugin."
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Typed.js Animator"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Texts"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Text"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Type your text here..."
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Text Lines"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Hello, I am an animated heading!"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "This is Typed.js for Elementor."
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Customize it however you want."
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Animation"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Typing Speed (ms)"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Backspace Speed (ms)"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Start Delay (ms)"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Back Delay (ms)"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Loop"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Yes"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "No"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Fade Out (instead of deleting)"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Cursor"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Show Cursor"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Cursor Character"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Cursor Color"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Text Style"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Text Color"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Alignment"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Left"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Center"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Right"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Font"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Font Weight"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Font Size"
+msgstr ""
+
+#: includes/widget-typed.php
+msgid "Line Height"
+msgstr ""
