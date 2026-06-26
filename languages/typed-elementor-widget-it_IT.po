@@ -2,7 +2,7 @@
 # This file is distributed under the GPLv2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Typed.js Elementor Widget 1.0.1\n"
+"Project-Id-Version: Typed.js Elementor Widget 1.0.2\n"
 "Report-Msgid-Bugs-To: https://giulioschiavo.it\n"
 "POT-Creation-Date: 2026-05-09 00:00+0000\n"
 "PO-Revision-Date: 2026-05-09 09:17+0000\n"
